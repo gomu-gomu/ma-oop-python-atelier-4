@@ -1,5 +1,7 @@
 # Atelier 4
 
+[![Python application](https://github.com/gomu-gomu/ma-oop-python-atelier-4/actions/workflows/python-app.yml/badge.svg)](https://github.com/gomu-gomu/ma-oop-python-atelier-4/actions/workflows/python-app.yml)
+
 Exercices are inside of the [tp.pdf](./assets/tp.pdf) file.
 
 Source code is under the [src](./src/) folder
